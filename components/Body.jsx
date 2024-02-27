@@ -87,7 +87,7 @@ function Body() {
 				<ItemList />
 			</div>
 			<h1 className="text-4xl py-2">Related deals you might like for </h1>
-			<div className="flex flex-wrap gap-8">
+			<div className="grid grid-cols-3 gap-6">
 				{array.map((item, index) => {
 					return (
 						<div className="" key={index}>
