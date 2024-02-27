@@ -22,7 +22,7 @@ function Navbar() {
 					Website Builders
 				</Link>
 				<Link className="text-white mt-1 font-light" href="#">
-					Today's deals
+					Today&#39;s deals
 				</Link>
 			</nav>
 		</div>
